@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "multer": "^1.4.2",
     "mysql": "github:mysqljs/mysql",
     "react-redux": "^7.1.1",
